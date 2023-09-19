@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/ledibonibell/lab-05-1/badge.svg?branch=master)](https://coveralls.io/github/ledibonibell/lab-05-1?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Tarchik02/lab-05/badge.svg?branch=master)](https://coveralls.io/github/Tarchik02/lab-05?branch=master)
 
 # Report-05
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере GTest
